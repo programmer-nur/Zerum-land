@@ -23,7 +23,7 @@ export const HeroSection = () => {
             <h1>
               Experience the
               <span className="text-transparent px-2 bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text">
-                Shadcn
+                Zerum
               </span>
               landing page
             </h1>
@@ -45,12 +45,7 @@ export const HeroSection = () => {
               variant="secondary"
               className="w-5/6 md:w-1/4 font-bold"
             >
-              <Link
-                href="https://github.com/nobruf/shadcn-landing-page.git"
-                target="_blank"
-              >
-                Github respository
-              </Link>
+              Login
             </Button>
           </div>
         </div>
